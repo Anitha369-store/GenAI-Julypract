@@ -1,9 +1,20 @@
-num1 = int(input("enter your first number:"))
-num2 = int(input("enter your second number:"))
+#Num1 = int(input("Enter the number1 "))
+#Num2 = int(input("Enter the number2 "))
 
-sum = num1 + num2
-print("Sum=", sum)
+#Sum = Num1 + Num2
+#print("Sum=", Sum)
 
-diff = num1 - num2
-print("Diff =" , diff)
 
+
+#name = input("enter your name : ")
+#print("welcome  ", name)
+
+
+
+
+age = 22
+height = 6.2
+name = "Anu"
+occup = False
+
+print(type(age))
